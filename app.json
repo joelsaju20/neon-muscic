@@ -5,9 +5,13 @@
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJyIbWENuGYvFZ43W9_BqerfboU6WEVavvOVV4EKlgVerrjm2bqsBRUF_0IUJAfl_gsI&usqp=CAU?size=1024",
   "keywords": ["node", "discord", "youtube", "music", "bot", "lavalink", "dashboard"],
   "image": "heroku/nodejs",
+  "image": "heroku/java",
+  "image": "heroku/python",
   "buildpacks": [
       {
           "url": "heroku/nodejs"
+          "url": "heroku/java"
+          "url": "heroku/python"
       }
   ],
 "env": {
