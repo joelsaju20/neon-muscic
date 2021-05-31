@@ -17,14 +17,14 @@ Do you have any issues with the bot? Head to our [Discord Server](https://discor
 
 ## 💨 Run the projects
 
-Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)
-Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
+Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/joelsaju20/neon-muscic)
+Repl: [![Run on Repl.it](https://repl.it/badge/github/joelsaju20/neon-muscic)](https://repl.it/github/joelsaju20/neon-muscic)
 Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/joelsaju20/neon-muscic)
 ## ✨ Contributors
 
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
 
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
+<a href="https://github.com/joelsaju20/neon-muscic/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
 </a>
 
